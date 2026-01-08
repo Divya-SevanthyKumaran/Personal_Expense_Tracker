@@ -1,0 +1,1 @@
+{'Date': '2025-12-06', 'Category': 'Food', 'Amount': 1300.0, 'Description': 'lunch'}{'Date': '2026-01-05', 'Category': 'Bills', 'Amount': 450.0, 'Description': 'recharge'}{'Date': '2026-01-04', 'Category': 'Transport', 'Amount': 36000.0, 'Description': 'flight'}
